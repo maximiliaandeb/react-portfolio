@@ -125,7 +125,7 @@ footer {
 
 .projects-image {
     height: 25vh;
-    
+    width: 25rem;
     margin-top: 2rem;
 }
 
@@ -159,4 +159,58 @@ footer {
 
 .projects-footer-h3 {
     color: #24B78B;
+}
+
+.contact-h1 {
+    color: #24B78B;
+    font-size: 3rem;
+    font-family: 'Goldman', sans-serif;
+    margin-left: 6rem;
+    text-align: center;
+}
+
+.contact-h4 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    font-size: 2rem;
+}
+
+.contact-span {
+    color: #24B78B;
+}
+
+.github-logo {
+   color: white;
+}
+
+.contact-icons {
+    width: 50%;
+    display: flex;
+    align-content: space-between;
+    margin-left: 13rem;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.contact-input {
+    border: solid 2px #24B78B;
+    padding: 0.5rem;
+}
+
+.contact-form {
+    margin-left: 65rem;
+}
+
+.contact-button {
+    background-color: #24B78B;
+    padding: 1rem;
+    border: solid 2px #24B78B;
+    cursor: pointer;
+    margin-top: 2rem;
+}
+
+.contact-div-mailphone {
+    align-content: space-between;
+    gap: 1rem
+    ;
 }
